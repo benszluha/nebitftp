@@ -1,0 +1,7 @@
+{
+    "address" : "127.0.0.1",
+    "port" : 21,
+    "directory" : "C:\\Some\\Folder",
+    "username" : "user",
+    "password" : "pass"
+}
