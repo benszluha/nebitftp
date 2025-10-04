@@ -14,4 +14,4 @@ To run the script:
 2. run the command python3 NebitFTP.py
 
 ## NOTE
-You meed to run ```pip install pyftpdlib``` before you run the script for the first time
+You need to run ```pip install pyftpdlib``` before you run the script for the first time
