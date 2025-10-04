@@ -12,3 +12,6 @@ Edit the config.json file where:
 To run the script:
 1. cd into the directory containing the python script
 2. run the command python3 NebitFTP.py
+
+## NOTE
+You meed to run ```pip install pyftpdlib``` before you run the script for the first time
